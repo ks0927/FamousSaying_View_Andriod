@@ -1,5 +1,5 @@
 # FamousSaying_View_Andriod
-랜덤한 명언을 보여주는 간단 안드로이드 어플
+랜덤한 명언을 보여주는 간단 안드로이드 어플   
 ListView를 위한 study app
 
 3월 31일 study: Element :ListView, 커스텀폰트, onBackPressed()...etc
